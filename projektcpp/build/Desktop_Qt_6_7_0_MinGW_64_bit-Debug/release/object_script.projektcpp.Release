@@ -1,0 +1,11 @@
+release/adddogthread.o
+release/addpedigreethread.o
+release/dodajpsa.o
+release/main.o
+release/mainwindow.o
+release/znajdzpsaokno.o
+release/moc_adddogthread.o
+release/moc_addpedigreethread.o
+release/moc_dodajpsa.o
+release/moc_mainwindow.o
+release/moc_znajdzpsaokno.o
